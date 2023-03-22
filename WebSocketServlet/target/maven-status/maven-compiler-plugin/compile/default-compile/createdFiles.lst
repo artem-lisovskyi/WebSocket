@@ -1,0 +1,4 @@
+websocket\ChatEndpoint.class
+websocket\MessageDecoder.class
+websocket\MessageEncoder.class
+model\Message.class
